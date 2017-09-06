@@ -4,3 +4,4 @@ Id,Name,Info
 566,reshap matrix,thinking tricky: minus 1 in the index id
 500,Keyboard row, tricky point as List to array need a parameter so that return specific type arr not Obj[]
 463,Island perimeter, only 1 island and no river in land
+496, Next Greater Element I , in an array in sequence next greater item. could use stack but I use dumb HashMap O(n*m)
